@@ -1,1 +1,3 @@
 # Text_Detection_And_Recognition_OpenCV_Tesseract_OCR
+
+This project basically detects texts in image... video file... and livecam... Detection is precise depending on the clarity of image and camera... But the Recognition part which is done using Tesseract will depend on the flags you use... So yes I did detection of English texts in images, video files and live cam.. The explaination is mentioned through comments about how the program works...
